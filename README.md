@@ -1,4 +1,3 @@
-# ScrapeLogBTC
 # Bitcoin Price Data Extraction using Web Scraping
 This Python script utilizes web scraping techniques to extract Bitcoin price data from a specific webpage. It uses the Selenium library to automate a web browser, capturing screenshots and extracting information from the images using Optical Character Recognition (OCR).
 
